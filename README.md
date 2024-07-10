@@ -1,1 +1,1 @@
-# discode-with-react-firebase
+# discore-with-react-firebase
